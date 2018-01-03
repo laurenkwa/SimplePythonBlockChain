@@ -21,7 +21,9 @@ The current version of this program will only be suited to Mac OS X users.
 
 2. Unzip the file and look for the executable called "blockchain". Run "blockchain" and your computer will execute the Python script and host the program at "http://localhost:5000". Make sure that port 5000 in your computer is not in use before running the program.
 
-3. Make requests to the API using cURL or Postman. The complete API documentation is found [here](https://documenter.getpostman.com/view/3449197/blockchain/7LqA31d)
+3. Make requests to the API on your localhost using cURL or Postman. The complete API documentation is found [here](https://documenter.getpostman.com/view/3449197/blockchain/7LqA31d)
+
+4. A registered node that you can add to your BlockChain is hosted at [http://laurenkwa.pythonanywhere.com/](http://laurenkwa.pythonanywhere.com). You can make API requests to this address and sync to it as well.  
 
 **Methodology:**
 
